@@ -23,6 +23,7 @@
     "node-jose": "^2.0.0",
     "npmrc": "^1.1.1",
     "pem": "^1.14.4",
+    "querystring": "^0.2.1",
     "secure-random-string": "^1.1.3"
   }
 }
